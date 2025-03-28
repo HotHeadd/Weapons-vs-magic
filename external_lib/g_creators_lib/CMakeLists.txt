@@ -1,0 +1,4 @@
+set(CMAKE_POSITION_INDEPENDENT_CODE ON)
+
+add_subdirectory(creators_lib)
+add_subdirectory(factory_init)

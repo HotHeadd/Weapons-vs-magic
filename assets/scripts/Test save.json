@@ -1,0 +1,73 @@
+{
+    "castle": {
+        "gold": 0,
+        "hp": 100.0,
+        "max_hp": 100.0,
+        "name": "TestCastle"
+    },
+    "defence": [],
+    "enemes": [],
+    "lairs": [
+        {
+            "current_wave_instructions": [
+                {
+                    "bob": {
+                        "amount": 50,
+                        "cooldown": 120,
+                        "current_amount": 50,
+                        "current_cooldown": 0
+                    }
+                }
+            ],
+            "current_wave_num": 1,
+            "wave_instructions": [
+                [
+                    {
+                        "bob": {
+                            "amount": 50,
+                            "cooldown": 120,
+                            "current_amount": 50,
+                            "current_cooldown": 0
+                        }
+                    }
+                ]
+            ],
+            "x": 0,
+            "y": 0
+        },
+        {
+            "current_wave_instructions": [
+                {
+                    "bob": {
+                        "amount": 100,
+                        "cooldown": 50,
+                        "current_amount": 100,
+                        "current_cooldown": 0
+                    }
+                }
+            ],
+            "current_wave_num": 1,
+            "wave_instructions": [
+                [
+                    {
+                        "bob": {
+                            "amount": 100,
+                            "cooldown": 50,
+                            "current_amount": 100,
+                            "current_cooldown": 0
+                        }
+                    }
+                ]
+            ],
+            "x": 8,
+            "y": 9
+        }
+    ],
+    "layout": {
+        "columns": 10,
+        "rows": 10,
+        "state": "RRRRRRRRRRWWFWWWWWWRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRWWFWWWWWRRWRRRRRRRCCRRRRRWRRCCRRRRRWRR"
+    },
+    "level_name": "Level 1",
+    "lib_name": "libInitFactory.so"
+}

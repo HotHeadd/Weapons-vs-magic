@@ -1,0 +1,2 @@
+/usr/bin/ar qc libEffectHolders.a CMakeFiles/EffectHolders.dir/source/effected.cpp.o CMakeFiles/EffectHolders.dir/source/magic.cpp.o
+/usr/bin/ranlib libEffectHolders.a

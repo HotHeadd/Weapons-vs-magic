@@ -1,0 +1,2 @@
+add_subdirectory(g_creators_lib)
+add_subdirectory(g_entities)

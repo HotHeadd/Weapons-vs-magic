@@ -1,0 +1,2 @@
+/usr/bin/ar qc libGEnemy.a CMakeFiles/GEnemy.dir/source/g_enemy.cpp.o
+/usr/bin/ranlib libGEnemy.a

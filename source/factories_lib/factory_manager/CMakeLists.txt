@@ -1,0 +1,7 @@
+add_library(FactoryManager)
+
+target_include_directories(FactoryManager PUBLIC include)
+
+target_sources(FactoryManager PRIVATE source/factory_manager.cpp)
+
+target_link_libraries(FactoryManager PUBLIC EffectFactory TowerFactory TrapFactory EnemyFactory)

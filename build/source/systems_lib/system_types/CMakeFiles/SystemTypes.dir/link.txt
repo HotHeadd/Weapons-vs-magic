@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSystemTypes.a CMakeFiles/SystemTypes.dir/source/defence_system.cpp.o CMakeFiles/SystemTypes.dir/source/effect_system.cpp.o CMakeFiles/SystemTypes.dir/source/enemy_system.cpp.o CMakeFiles/SystemTypes.dir/source/lair_system.cpp.o
+/usr/bin/ranlib libSystemTypes.a

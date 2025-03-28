@@ -1,0 +1,130 @@
+{
+    "castle": {
+        "gold": 200,
+        "hp": 300,
+        "max_hp": 300.0
+    },
+    "defence": [],
+    "enemes": [],
+    "lairs": [
+        {
+            "current_wave_instructions": [
+                {
+                    "tank": {
+                        "amount": 30,
+                        "cooldown": 100,
+                        "current_amount": 30,
+                        "current_cooldown": 0
+                    }
+                }
+            ],
+            "current_wave_num": 1,
+            "wave_instructions": [
+                [
+                    {
+                        "tank": {
+                            "amount": 30,
+                            "cooldown": 150,
+                            "current_amount": 30,
+                            "current_cooldown": 0
+                        }
+                    }
+                ],
+                []
+            ],
+            "x": 19,
+            "y": 0
+        },
+        {
+            "current_wave_instructions": [
+                {
+                    "tank": {
+                        "amount": 30,
+                        "cooldown": 1000,
+                        "current_amount": 30,
+                        "current_cooldown": 0
+                    }
+                }
+            ],
+            "current_wave_num": 1,
+            "wave_instructions": [
+                [
+                    {
+                        "tank": {
+                            "amount": 30,
+                            "cooldown": 1000,
+                            "current_amount": 30,
+                            "current_cooldown": 0
+                        }
+                    }
+                ],
+                []
+            ],
+            "x": 0,
+            "y": 19
+        },
+        {
+            "current_wave_instructions": [
+                {
+                    "bob": {
+                        "amount": 100,
+                        "cooldown": 50,
+                        "current_amount": 100,
+                        "current_cooldown": 0
+                    }
+                }
+            ],
+            "current_wave_num": 1,
+            "wave_instructions": [
+                [
+                    {
+                        "bob": {
+                            "amount": 100,
+                            "cooldown": 50,
+                            "current_amount": 100,
+                            "current_cooldown": 0
+                        }
+                    }
+                ],
+                []
+            ],
+            "x": 19,
+            "y": 19
+        },
+        {
+            "current_wave_instructions": [
+                {
+                    "bob": {
+                        "amount": 100,
+                        "cooldown": 200,
+                        "current_amount": 100,
+                        "current_cooldown": 0
+                    }
+                }
+            ],
+            "current_wave_num": 1,
+            "wave_instructions": [
+                [
+                    {
+                        "bob": {
+                            "amount": 100,
+                            "cooldown": 500,
+                            "current_amount": 100,
+                            "current_cooldown": 0
+                        }
+                    }
+                ],
+                []
+            ],
+            "x": 0,
+            "y": 0
+        }
+    ],
+    "layout": {
+        "columns": 20,
+        "rows": 20,
+        "state": "RRRRRRRRRRRRRRRRRRRRWWWWFWWWRWWRWWWFWWWWWFWWWWFWRFFRWFWWWWFWWWWWWWWWRWWRWWWWWWWWWWWWWFWWRWWRWWFWWWWWWWRRRRRRRRRRRRRRRRWWWFRWWFWWFWWFWWFWWRFWWWRWFWWWWWWWWWWFWRWWWWRRRRRRCCCCRRRRRRWWWWWFWWFWCCCCWFWWFWWWWWRRRRRRCCCCRRRRRRWWWFRWWFWWWWWWWWFWWRFWWWRWWWWWWWWWWWWWWRWWWFRWFWWFWWWWFWWFWRFWWWRRRRRRRRRRRRRRRRWWWWWFWWWWRFFRWWWWFWWWWWWWWWFWRWWRWFWWWWWWWWWWFWWWRWWRWWWFWWWWWWWWWWWFRWWRFWWWWWWWRRRRRRRRRRRRRRRRRRRR"
+    },
+    "level_name": "First skirmish",
+    "lib_name": "libInitFactory.so"
+}

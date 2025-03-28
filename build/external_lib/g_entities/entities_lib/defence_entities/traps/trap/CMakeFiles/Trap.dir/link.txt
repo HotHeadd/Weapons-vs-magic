@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTrap.a CMakeFiles/Trap.dir/source/trap.cpp.o
+/usr/bin/ranlib libTrap.a

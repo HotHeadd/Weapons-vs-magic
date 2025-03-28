@@ -1,0 +1,2 @@
+add_subdirectory(g_trap)
+add_subdirectory(g_magic_trap)

@@ -1,0 +1,5 @@
+add_library(Interfaces INTERFACE)
+
+target_include_directories(Interfaces INTERFACE object_interfaces)
+target_include_directories(Interfaces INTERFACE traits)
+target_include_directories(Interfaces INTERFACE factories)

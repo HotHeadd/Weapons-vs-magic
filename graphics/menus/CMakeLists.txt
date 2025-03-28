@@ -1,0 +1,3 @@
+add_subdirectory(tower_menu)
+add_subdirectory(trap_menu)
+add_subdirectory(info_menu)

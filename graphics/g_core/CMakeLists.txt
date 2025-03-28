@@ -1,0 +1,6 @@
+add_subdirectory(g_nodes)
+add_subdirectory(texture_manager)
+add_subdirectory(game_state)
+
+add_library(Renderable INTERFACE)
+target_include_directories(Renderable INTERFACE renderable)

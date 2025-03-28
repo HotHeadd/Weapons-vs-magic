@@ -1,0 +1,2 @@
+add_subdirectory(g_tower)
+add_subdirectory(g_magic_tower)

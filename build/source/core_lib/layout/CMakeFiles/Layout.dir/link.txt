@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLayout.a CMakeFiles/Layout.dir/source/layout.cpp.o
+/usr/bin/ranlib libLayout.a

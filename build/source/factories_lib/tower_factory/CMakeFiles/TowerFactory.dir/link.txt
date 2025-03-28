@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTowerFactory.a CMakeFiles/TowerFactory.dir/source/tower_factory.cpp.o
+/usr/bin/ranlib libTowerFactory.a

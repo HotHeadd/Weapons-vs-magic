@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTowerCreators.a CMakeFiles/TowerCreators.dir/source/tower_creators.cpp.o
+/usr/bin/ranlib libTowerCreators.a

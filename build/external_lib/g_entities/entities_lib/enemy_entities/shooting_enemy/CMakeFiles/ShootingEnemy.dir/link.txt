@@ -1,0 +1,2 @@
+/usr/bin/ar qc libShootingEnemy.a CMakeFiles/ShootingEnemy.dir/source/shooting_enemy.cpp.o
+/usr/bin/ranlib libShootingEnemy.a

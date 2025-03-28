@@ -1,0 +1,2 @@
+/usr/bin/ar qc libGTrap.a CMakeFiles/GTrap.dir/source/g_trap.cpp.o
+/usr/bin/ranlib libGTrap.a

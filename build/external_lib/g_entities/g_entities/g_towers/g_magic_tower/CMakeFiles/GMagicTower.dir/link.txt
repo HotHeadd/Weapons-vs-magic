@@ -1,0 +1,2 @@
+/usr/bin/ar qc libGMagicTower.a CMakeFiles/GMagicTower.dir/source/g_magic_tower.cpp.o
+/usr/bin/ranlib libGMagicTower.a

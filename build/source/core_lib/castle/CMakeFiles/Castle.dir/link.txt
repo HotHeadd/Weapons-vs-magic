@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCastle.a CMakeFiles/Castle.dir/source/castle.cpp.o
+/usr/bin/ranlib libCastle.a

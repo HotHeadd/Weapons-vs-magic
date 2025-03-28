@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTrapFactory.a CMakeFiles/TrapFactory.dir/source/trap_factory.cpp.o
+/usr/bin/ranlib libTrapFactory.a

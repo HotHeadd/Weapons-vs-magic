@@ -1,0 +1,4 @@
+set(CMAKE_POSITION_INDEPENDENT_CODE ON)
+
+add_subdirectory(entities_lib)
+add_subdirectory(g_entities)

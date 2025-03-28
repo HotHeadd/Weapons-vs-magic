@@ -1,0 +1,2 @@
+/usr/bin/ar qc libRenderManager.a CMakeFiles/RenderManager.dir/source/render_manager.cpp.o CMakeFiles/RenderManager.dir/source/drawfuncs.cpp.o
+/usr/bin/ranlib libRenderManager.a

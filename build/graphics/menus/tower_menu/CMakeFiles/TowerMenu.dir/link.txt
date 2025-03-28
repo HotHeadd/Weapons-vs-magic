@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTowerMenu.a CMakeFiles/TowerMenu.dir/source/tower_menu.cpp.o
+/usr/bin/ranlib libTowerMenu.a

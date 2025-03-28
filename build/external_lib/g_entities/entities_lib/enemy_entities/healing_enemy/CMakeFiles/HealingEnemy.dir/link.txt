@@ -1,0 +1,2 @@
+/usr/bin/ar qc libHealingEnemy.a CMakeFiles/HealingEnemy.dir/source/healing_enemy.cpp.o
+/usr/bin/ranlib libHealingEnemy.a
