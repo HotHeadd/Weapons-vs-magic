@@ -1,2 +1,0 @@
-/usr/bin/ar qc libFactoryManager.a CMakeFiles/FactoryManager.dir/source/factory_manager.cpp.o
-/usr/bin/ranlib libFactoryManager.a

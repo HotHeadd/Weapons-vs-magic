@@ -1,2 +1,0 @@
-/usr/bin/ar qc libEffectCreators.a CMakeFiles/EffectCreators.dir/source/effect_creators.cpp.o
-/usr/bin/ranlib libEffectCreators.a

@@ -1,2 +1,0 @@
-/usr/bin/ar qc libGTower.a CMakeFiles/GTower.dir/source/g_tower.cpp.o
-/usr/bin/ranlib libGTower.a

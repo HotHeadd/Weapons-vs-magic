@@ -1,2 +1,0 @@
-/usr/bin/ar qc libInfoMenu.a CMakeFiles/InfoMenu.dir/source/info_menu.cpp.o
-/usr/bin/ranlib libInfoMenu.a

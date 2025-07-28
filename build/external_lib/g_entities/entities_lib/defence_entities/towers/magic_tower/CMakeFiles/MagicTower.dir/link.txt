@@ -1,2 +1,0 @@
-/usr/bin/ar qc libMagicTower.a CMakeFiles/MagicTower.dir/source/magic_tower.cpp.o
-/usr/bin/ranlib libMagicTower.a

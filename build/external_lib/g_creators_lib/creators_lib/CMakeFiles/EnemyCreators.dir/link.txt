@@ -1,2 +1,0 @@
-/usr/bin/ar qc libEnemyCreators.a CMakeFiles/EnemyCreators.dir/source/enemy_creators.cpp.o
-/usr/bin/ranlib libEnemyCreators.a

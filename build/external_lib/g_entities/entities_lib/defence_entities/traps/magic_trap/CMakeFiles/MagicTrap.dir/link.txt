@@ -1,2 +1,0 @@
-/usr/bin/ar qc libMagicTrap.a CMakeFiles/MagicTrap.dir/source/magic_trap.cpp.o
-/usr/bin/ranlib libMagicTrap.a

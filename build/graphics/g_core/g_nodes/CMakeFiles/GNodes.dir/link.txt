@@ -1,2 +1,0 @@
-/usr/bin/ar qc libGNodes.a CMakeFiles/GNodes.dir/source/g_nodes.cpp.o
-/usr/bin/ranlib libGNodes.a

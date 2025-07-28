@@ -3,6 +3,8 @@ BUILD_TEST_DIR = buildtests
 
 TARGET = run
 
+MAKEFLAGS += --no-print-directory
+
 .PHONY : build run runsec setup_test_dirs timetest
 
 final: ${TARGET}

@@ -1,2 +1,0 @@
-/usr/bin/ar qc libLair.a CMakeFiles/Lair.dir/source/lair.cpp.o
-/usr/bin/ranlib libLair.a

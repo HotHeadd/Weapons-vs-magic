@@ -1,2 +1,0 @@
-/usr/bin/ar qc libTrapMenu.a CMakeFiles/TrapMenu.dir/source/trap_menu.cpp.o
-/usr/bin/ranlib libTrapMenu.a

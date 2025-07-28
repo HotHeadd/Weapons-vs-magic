@@ -1,2 +1,0 @@
-/usr/bin/ar qc libEffects.a CMakeFiles/Effects.dir/source/poisoning.cpp.o CMakeFiles/Effects.dir/source/slowdown.cpp.o CMakeFiles/Effects.dir/source/weakening.cpp.o
-/usr/bin/ranlib libEffects.a

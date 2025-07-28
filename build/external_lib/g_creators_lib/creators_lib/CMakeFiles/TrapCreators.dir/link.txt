@@ -1,2 +1,0 @@
-/usr/bin/ar qc libTrapCreators.a CMakeFiles/TrapCreators.dir/source/trap_creators.cpp.o
-/usr/bin/ranlib libTrapCreators.a
